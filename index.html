@@ -6,7 +6,8 @@
     <title>Spotify Imersão</title>
     <link rel="stylesheet" href="./src/styles/resetstyle.css">
     <link rel="stylesheet" href="./src/styles/vars.css">
-    <link rel="stylesheet" href="./src/styles/style.css">
+    <link rel="stylesheet" href="./src/styles/sidebar-footer.css">
+    <link rel="stylesheet" href="./src/styles/main-content.css">
     <script src="https://kit.fontawesome.com/ba5fe6b804.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -58,5 +59,28 @@
             </div>
         </div>
     </div>
+    <main>
+        <div class="main-container">
+            <nav class="header_navigation">
+                <div class="navigation">
+                    <button class="arrow-left">
+                        <img src="./src/assets/icons/small-left.png" alt="Seta Esquerda">
+                    </button>
+                    <button class="arrow-right">
+                        <img src="./src/assets/icons/small-right.png" alt="Seta Direita">
+                    </button>
+                </div>
+                <div class="header_search">
+                    <img src="./src/assets/icons/search.png" alt="">
+                    <input id="search-input" type="text" maxlength="800" placeholder="O que você quer ouvir?"/>
+                </div>
+                <div class="header_login">
+                    <button class="subscribe">Inscreva-se</button>
+                    <button class="login">Entrar</button>
+                </div>
+            </nav>
+        </div>
+    </main>
+    <footer></footer>
 </body>
 </html>
