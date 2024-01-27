@@ -15,21 +15,22 @@
     flex-direction: row;
     gap: 24px;
     justify-content: space-between;
-    position: relative;
+    position: fixed;
+    bottom: 0;
     padding: 11px 24px 7px 15px;
     width: 100%;
     z-index: 1;
 }
 
 .footer-text{
-    margin: 0px 0 4px;
+    margin: 0 0 4px;
     color: #fff;
     font-family: "Helvetica Neue,helvetica,arial,Hiragino Kaku Gothic ProN,Meiryo,MS Gothic", sans-serif;
 }
 
 .footer-text p:first-child{
     font-weight: 700;
-    margin-block: 0px;
+    margin-block: 5px;
     font-size: 0.875rem;
 }
 .footer-text p:nth-child(2){
