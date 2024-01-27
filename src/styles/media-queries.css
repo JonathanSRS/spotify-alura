@@ -1,6 +1,6 @@
 @media screen and (max-width: 2560px){
     .cards{
-        grid-template-columns: repeat(5, minmax(0,1fr));
+        grid-template-columns: repeat(6, minmax(0,1fr));
     }
     .header_navigation{
         left: 17vw;
@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 1440px){
     .cards{
-        grid-template-columns: repeat(5, minmax(0,1fr));
+        grid-template-columns: repeat(6, minmax(0,1fr));
     }
     .header_navigation{
         left: 22vw;

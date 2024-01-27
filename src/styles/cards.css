@@ -89,7 +89,7 @@
     gap: 16px;
     justify-content: center;
     margin-bottom: 16px;
-    grid-template-columns: repeat(5, minmax(0,1fr));
+    grid-template-columns: repeat(6, minmax(0,1fr));
     /* min-width: 372px; */
     /* grid-auto-rows: 0; */
     /* grid-template-rows: 1fr; */
