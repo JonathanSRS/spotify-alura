@@ -16,6 +16,7 @@ body{
     background-color: #121212;
     border-radius: 8px;
     padding: 16px 0 0 16px;
+    min-height: 18vh;
 }
 
 .sidebar_navigation .logo{
@@ -56,6 +57,7 @@ body{
     color: #b3b3b3;
     font-size: 14px;
     margin-top: 10px;
+    min-height: 70vh;
 }
 
 .library .library_content{

@@ -69,8 +69,17 @@
     .cards{
         grid-template-columns: repeat(1, minmax(0,1fr));
     }
+
+    .offter_scroll-container {
+        max-height: 96vh;
+    }
+
     .arrow-right{
         display: none;
+    }
+
+    .header-playlist-title{
+        font-size: 0.9rem;
     }
     .header_search{
         display: none;
@@ -78,7 +87,7 @@
 
     .header_navigation{
         left: 50vw;
-        right: -31vw;
+        right: -43vw;
     }
     .sidebar{
         width: 150px;
