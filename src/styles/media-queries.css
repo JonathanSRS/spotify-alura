@@ -60,9 +60,30 @@
         display: none;
     }
     .header_navigation{
-        left: 2vw;
-        right: 1vw;
+        left: 50vw;
+        right: -43vw;
     }
+
+    .sidebar{
+        width: 200px;
+    }
+    .home-page .home-page_content{
+        left: 36%;
+        top: 7%;
+    }
+
+    .offter_scroll-container {
+        max-height: 96vh;
+    }
+
+    .languages .languages_button{
+        width: 127px;
+    }
+
+    .header_search{
+        display: none;
+    }
+
 }
 
 @media screen and (max-width: 320px){
