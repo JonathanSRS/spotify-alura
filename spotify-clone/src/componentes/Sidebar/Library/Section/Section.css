@@ -1,0 +1,50 @@
+.section-playlist{
+    align-items: flex-start;
+    background-color: #242424;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    color: #b3b3b3;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 8px 0px;
+    padding: 16px 20px;
+}
+
+.section-playlist .section-playlist_content{
+    display: flex;
+    flex-direction: column;
+}
+
+.section-playlist_content .text{
+    color: #fff;
+    
+    padding-bottom: 14px;
+}
+
+.section-playlist_content .title{
+    font-weight: 700;
+}
+
+.section-playlist_content .subtitle{
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.section-playlist_content .section-playlist_button{
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    padding: 10px;
+    margin-top: 12px;
+    border: 0px;
+    width: 60%;
+}

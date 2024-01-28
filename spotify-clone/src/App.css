@@ -44,6 +44,20 @@
   margin-right: 56px;
 }
 
+body{
+  background-color: #000;
+  font-family: var(--font-dm-sans);
+}
+
+.sidebar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  padding: 12px;
+  width: 300px;
+}
+
 @media screen and (max-width: 2560px){
   .cards{
       grid-template-columns: repeat(6, minmax(0,1fr));
