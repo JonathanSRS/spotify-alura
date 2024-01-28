@@ -1,0 +1,37 @@
+.playlists{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 24px;
+    max-width: 100%;
+    margin-bottom: 16px;
+    flex-direction: column;
+    position: relative;
+}
+
+.cards{
+    display: grid;
+    gap: 16px;
+    justify-content: center;
+    margin-bottom: 16px;
+    grid-template-columns: repeat(6, minmax(0,1fr));
+    /* min-width: 372px; */
+    /* grid-auto-rows: 0; */
+    /* grid-template-rows: 1fr; */
+}
+
+.cards .card-content{
+    background: #181818;
+    border-radius: 8px;
+    transition: background-color .3s ease;
+    position: relative;
+    overflow: hidden;
+    width: 220px;
+}
+
+
+.cards .card_content img{
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
