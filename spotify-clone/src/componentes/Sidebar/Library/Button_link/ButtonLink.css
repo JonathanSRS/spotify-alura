@@ -1,12 +1,12 @@
 .buttons_links{
     display: flex;
     flex-wrap: wrap;
-    margin: 8px 0px;
-    padding: 16px 20px;
+    padding: 4px 0px;
 }
 
 .buttons-links_content{
     margin-right: 16px;
+    margin-bottom: 8px;
 }
 
 .buttons-links_content a {
@@ -17,7 +17,7 @@
     box-sizing: border-box;
     -webkit-tap-highlight-color: transparent;
     margin-block: 0px;
-    font-size: 0.6875rem;
+    font-size: 0.6585rem;
     font-weight: 400;
     font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
     color: #b3b3b3;

@@ -17,14 +17,14 @@ const CardColor = () =>{
                 <div className="card_content">
                     <img src={img30} alt=""/>
                     <div className="card-text color">
-                        <span className="card-title"></span>
+                        <span className="card-title">All the Right Reasons</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img4} alt=""/>
                     <div className="card-text color">
-                        <span className="card-title"></span>
+                        <span className="card-title">Keith Sweat</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>

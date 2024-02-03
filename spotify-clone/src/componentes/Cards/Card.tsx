@@ -24,42 +24,42 @@ const Card = () =>{
                 <div className="card_content">
                     <img src={img17} alt="cantor"/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">This is Racionais</span>
+                        <span className="card-subtitle">Os maiores do Rap</span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img20} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
+                        <span className="card-title">This is Legião Urbana</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img19} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
+                        <span className="card-title">This is Djavan</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img23} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
+                        <span className="card-title">This is Charlie Brown Jr</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img22} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
+                        <span className="card-title">This is AC/DC</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img21} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
+                        <span className="card-title">This is Rashid</span>
                         <span className="card-subtitle"></span>
                     </div>
                 </div>
