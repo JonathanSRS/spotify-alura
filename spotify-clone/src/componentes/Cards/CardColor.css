@@ -1,0 +1,27 @@
+.card-text.color {
+    color: white;
+    position: relative;
+    right: 255px;
+    bottom: 88px;
+    width: 200px;
+}
+.card-text.color .card-title {
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    width: 175px;
+}
+
+.cards.color .card_content img{ 
+    height: 55%;
+    width: 100%;
+    transform: rotate(25deg);
+    padding-left: 142px;
+}
+
+.cards.color .card_content{
+    display: flex;
+    background: #1f632b;
+    align-items: center;
+    overflow-x: hidden;
+}
