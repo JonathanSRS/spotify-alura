@@ -1,4 +1,4 @@
-<img src=".src/assets/img/readme/img.png">
+<img src="./src/assets/img/readme/img.PNG">
 
 
 # Getting Started with Create React App
