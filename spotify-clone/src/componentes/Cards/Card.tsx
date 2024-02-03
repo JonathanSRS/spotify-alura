@@ -71,43 +71,43 @@ const Card = () =>{
                 <div className="card_content">
                     <img src={img32} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">Grupo Bom Gosto</span>
+                        <span className="card-subtitle">Mix de Álbuns</span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img25} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">Doce Encontro</span>
+                        <span className="card-subtitle">Mix de Álbuns</span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img31} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">Linkin Park</span>
+                        <span className="card-subtitle">Mix de Álbuns</span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img2} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">Melhores do Pop</span>
+                        <span className="card-subtitle">Mix de Álbuns</span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img3} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">P Diddy</span>
+                        <span className="card-subtitle">Músicas de Sucesso</span>
                     </div>
                 </div>
                 <div className="card_content">
                     <img src={img9} alt=""/>
                     <div className="card-text">
-                        <span className="card-title"></span>
-                        <span className="card-subtitle"></span>
+                        <span className="card-title">Kevin O'Chris, Mc Kadu </span>
+                        <span className="card-subtitle">Melhores Hit de Funk</span>
                     </div>
                 </div>
             </div>
