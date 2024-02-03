@@ -1,4 +1,5 @@
 import React from 'react';
+import './styles/resetstyle.css'
 import './styles/vars.css'
 import './App.css';
 import Header from './componentes/Header/Header.tsx';

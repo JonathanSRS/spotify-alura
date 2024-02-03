@@ -3,7 +3,7 @@
         grid-template-columns: repeat(6, minmax(0,1fr));
     }
     .header_navigation{
-        left: 17vw;
+        left: 16.5vw;
     }
 }
 
@@ -15,7 +15,11 @@
         left: 22vw;
     }   
     .home-page .home-page_content {
-        top: 10%;
+        top: 10% !important;
+    }
+
+    .library{
+        min-height: 69vh !important;
     }
 }
 
@@ -27,10 +31,14 @@
         left: 31vw;
     }
     .home-page .home-page_content {
-        top: 10%;
+        top: 10% !important;
     }
     .offter_scroll-container{
-        max-height: 69vh;
+        min-height: 69vh;
+    }
+
+    .library{
+        min-height: 67vh !important;
     }
 }
 
@@ -60,16 +68,16 @@
         display: none;
     }
     .header_navigation{
-        left: 50vw;
+        left: 56vw;
         right: -43vw;
     }
 
     .sidebar{
-        width: 200px;
+        width: 227px;
     }
     .home-page .home-page_content{
-        left: 36%;
-        top: 7%;
+        left: 40%;
+        top: 7% !important;
     }
 
     .offter_scroll-container {
@@ -87,10 +95,14 @@
 }
 
 @media screen and (max-width: 320px){
+    .home-page .home-page_content{
+        left: 36%;
+        top: 7% !important;
+    }
     .cards{
         grid-template-columns: repeat(1, minmax(0,1fr));
     }
-
+    
     .offter_scroll-container {
         max-height: 96vh;
     }
@@ -112,10 +124,6 @@
     }
     .sidebar{
         width: 150px;
-    }
-    .home-page .home-page_content{
-        left: 36%;
-        top: 7%;
     }
 
     .languages .languages_button{

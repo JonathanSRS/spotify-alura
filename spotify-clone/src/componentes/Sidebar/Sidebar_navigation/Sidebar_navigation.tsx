@@ -1,5 +1,6 @@
 import React from "react";
 import './Sidebar_navigation.css';
+import '../../../styles/media-queries.css';
 import logoSpotify from '../../../assets/icons/logo-spotify.png';
 
 const Sidebar_navigation = () =>{

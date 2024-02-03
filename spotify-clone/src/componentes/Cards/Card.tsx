@@ -1,5 +1,6 @@
 import React from "react";
 import './Card.css';
+import '../../styles/media-queries.css';
 import img17 from '../../assets/playlist/17.jpg';
 import img2 from '../../assets/playlist/2.png';
 import img3 from '../../assets/playlist/3.jpg';

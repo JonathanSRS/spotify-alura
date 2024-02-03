@@ -1,5 +1,6 @@
 import React from "react";
 import './ButtonLink.css';
+import '../../../../styles/media-queries.css';
 
 const ButtonLink = () =>{
     return(

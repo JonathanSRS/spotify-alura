@@ -1,5 +1,6 @@
 import React from "react";
 import './Section.css';
+import '../../../../styles/media-queries.css';
 
 const Section = (props)=>{
     return(

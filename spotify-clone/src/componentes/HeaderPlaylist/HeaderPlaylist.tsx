@@ -1,5 +1,6 @@
 import React from "react";
 import './HeaderPlaylist.css';
+import '../../styles/media-queries.css';
 
 const HeaderPlaylist = ()=>{
     return(
